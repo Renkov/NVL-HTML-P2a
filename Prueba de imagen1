@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title>Prueba de imagen</title>
+ </head>
+ <body>
+   <img src="https://i.pinimg.com/originals/b0/4f/f9/b04ff9cfb46f993512a9ca131c07db80.jpg" style="height: 500; width: auto">
+ </body>
+</html>
