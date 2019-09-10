@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title>Prueba de texto 2</title>
+ </head>
+ <body>
+   
+   <p>Mis 10 peliculas favoritas</p>
+   		<ul>
+	   		<li>Jhon wick 1	</li>
+	   		<li>Jhon wick 2		</li>
+	   		<li>Jhon wick 3	</li>
+	   		<li>Jhon wick 4</li>
+	   		<li>Jhon wick 5</li>
+	   		<li>Jhon wick 6</li>
+	   		<li>Jhon wick 7</li>
+	   		<li>Jhon wick 8</li>
+	   		<li>Jhon wick 9</li>
+	   		<li>Jhon wick 10</li>
+	   	</ul>
+	<p>las cinco mejores que nos veríamos de una sentada</p>
+	<ol>
+			<li> Star Wars 1 </li>
+			<li> Star wars 2 </li>
+			<li> Star Wars 3 </li>
+			<li> Star Wars 4 </li>
+			<li> Star Wars 5 </li>
+	</ol>
+ </body>
+</html>
