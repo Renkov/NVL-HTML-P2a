@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title>Prueba enlaces 2</title>
+ </head>
+ <body>
+ <p class="h1"> Glosario de terminos</p>
+ <p class="h3"><a href="#a">A</a> <a href="#b">B</a> <a href="#C">C</a> <a href="#d">D</a> <a href="#E">E</a> <a href="#f">F</a> <a href="#g">G</a>	<a href="#h">H</a> <a href="#i">I</a><a href="#j">J</a> <a href="#k">K</a> <a href="#l">L</a> <a href="#m">M</a> <a href="#N">N</a> <a href="#ni">Ñ</a> <a href="#o">O</a> <a href="#p">P</a> <a href="#q">Q</a> <a href="#r">R</a> <a href="#s">S</a> <a href="#t">T</a> <a href="#u">U</a> <a href="#v">V</a> <a href="#w">W</a><a href="#x">X</a><a href="#y">Y</a><a href="#z">Z</a>
+ </p>
+ 
+ <div>
+ 		<div>
+ 			<div style="width:20%">
+				<p class="h1">A</p>
+				<p class="h2">Alma</p>
+				<a name="a"><img href="https://cdn.hermandadblanca.org/wp-content/uploads/2015/09/hermandadblanca_org_diferencias-entre-alma-y-esparitu.jpg" style="width: 20%;height: auto;align-items: center"></a>
+				<p>El término alma o ánima (del latín anima) se refiere a una entidad inmaterial que, según las afirmaciones y creencias de diferentes tradiciones y perspectivas filosóficas y religiosas, poseen los seres vivos</p>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">B</p>
+ 				<p class="h2">Belleza</p>
+				<a name="b"><img href="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwio3qDbosfkAhV75OAKHeiRDUMQjRx6BAgBEAQ&url=https%3A%2F%2Fviajes.nationalgeographic.com.es%2Fa%2Fbosques-mas-bellos-mundo_8559&psig=AOvVaw0X3PyJlaRw_NkR_NfaLSEn&ust=1568239796146162" style="width: 20%;height: auto;align-items: center"></a>
+				<p>Belleza es una noción abstracta ligada a numerosos aspectos de la existencia humana. La belleza se estudia dentro de la disciplina filosófica de la estética, además de otras disciplinas como la historia, la sociología y la psicología social. Vulgarmente la belleza se define como la característica de una cosa que a través de una experiencia sensorial (percepción) procura una sensación de placer o un sentimiento de satisfacción. En este sentido, proviene de manifestaciones tales como la forma, el aspecto visual, el movimiento y el sonido, aunque también se la asocia, en menor medida, a los sabores y los olores. En esta línea y haciendo hincapié en el aspecto visual, Tomás de Aquino define lo bello como aquello que agrada a la vista (quae visa placet). </p>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">C</p>
+ 				<p class="h2">Ciencia</p>
+				<a name="c"><img href="https://www.caracteristicas.co/wp-content/uploads/2016/03/ciencia-e1557789930385.jpg" style="width: 20%;height: auto;align-items: center"></a>
+				<p>La ciencia (del latín scientĭa, ‘conocimiento’) es un sistema ordenado de conocimientos estructurados que estudia, investiga e interpreta los fenómenos naturales, sociales y artificiales.1​ El conocimiento científico se obtiene mediante observación y experimentación en ámbitos específicos. Dicho conocimiento es organizado y clasificado sobre la base de principios explicativos, ya sean de forma teórica o práctica. A partir de estos se generan preguntas y razonamientos, se formulan hipótesis, se deducen principios y leyes científicas, y se construyen modelos científicos, teorías científicas y sistemas de conocimientos por medio de un método científico.</p>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">D</p>
+ 				<p>Dirección
+				<a name="d"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">E</p>
+ 				<p>Espada</p>
+				<a name="e"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 		</div>
+ 		<div>
+ 			<div style="width:100%">
+				<p class="h1">F</p>
+				<p>Fiereza</p>
+				<a name="f"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">G</p>
+ 				<p>Geiser</p>
+				<a name="g"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			<div style="width:100%">
+ 				<p class="h1">H</p>
+ 				<p>Hierro</p>
+				<a name="h"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">I</p>
+ 				<p>Isla</p>
+				<a name="i"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">J</p>
+ 				<p>Juego</p>
+				<a name="j"><im1g href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 		</div>
+ 		<div>
+ 			<div style="width:100%">
+				<p class="h1">K</p>
+				<p>Kilojulio</p>
+				<a name="k"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">L</p>
+ 				<p>Lenguaje</p>
+				<a name="l"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">M</p>
+ 				<p>Manantial</p>
+				<a name="m"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">N</p>
+ 				<p>Nórdico</p>
+				<a name="n"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">Ñ</p>
+ 				<p>Ñame</p>
+				<a name="ni"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 		</div>
+ 		<div>
+ 			<div style="width:100%">
+				<p class="h1">O</p>
+				<p>Oxidación</p>
+				<a name="o"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">P</p>
+ 				<p>Puerta</p>
+				<a name="p"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">Q</p>
+ 				<p>Quemar</p>
+				<a name="q"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">R</p>
+ 				<p>Reguero</p>
+				<a name="r"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">S</p>
+ 				<p>Simpatía</p>
+				<a name="s"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 		</div>
+ 		<div>
+ 			<div style="width:100%">
+				<p class="h1">T</p>
+				<p>Temperamento</p>
+				<a name="t"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">U</p>
+ 				<p>Universo</p>
+				<a name="u"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">V</p>
+ 				<p>Verdad</p>
+				<a name="V"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">W</p>
+ 				<p>Web</p>
+				<a name="w"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">X</p>
+ 				<p>Xilografía</p>
+				<a name="x"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			<div>
+ 			<div style="width:100%">
+				<p class="h1">Y</p>
+				<p>Yunque</p>
+				<a name="y"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			<div style="width:100%">
+ 				<p class="h1">Z</p>
+ 				<p>Zancos</p>
+				<a name="Z"><img href="" style="width: 20%;height: auto;align-items: center"></a>
+ 			</div>
+ 			
+ 		</div>
+ 		</div>
+ </div>
+
+ </body>
+</html>
