@@ -1,0 +1,15 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+   <div style="width:45%; float:left; ">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam odio mi, mollis ut neque id, gravida luctus metus. Praesent aliquet tortor odio, sed pharetra urna iaculis quis. Cras placerat, risus ac aliquet auctor, orci augue viverra metus, non gravida ex ante eget purus. Curabitur consectetur porttitor orci vel accumsan. Nunc vel fermentum felis, sed varius nunc. In vel porttitor urna. Duis ac purus est. Nullam auctor neque cursus metus imperdiet, eget tempor tortor maximus. Sed venenatis felis nec lacinia auctor. Integer pharetra, tortor nec varius viverra, turpis mi feugiat lectus, nec faucibus lacus tortor id velit. Mauris dignissim purus eu magna malesuada vestibulum. Nunc sodales metus nisl, a tristique diam tempor in.</p>
+    <p>In vitae nunc quis sapien ullamcorper venenatis. Pellentesque eget arcu tortor. Phasellus a nisi cursus, lacinia urna non, sodales mi. Vestibulum consequat, arcu id rhoncus aliquam, nunc velit pretium mauris, et suscipit purus tortor eu quam. Praesent venenatis pulvinar ante, non rhoncus felis tincidunt in. Vestibulum lacus purus, finibus at pretium et, vulputate in mauris. Mauris porttitor molestie ante et malesuada. Nulla fermentum finibus tortor. Phasellus tristique lectus lectus, non efficitur tellus aliquam at. Nulla sollicitudin pretium libero sed porta. Suspendisse ante orci, lacinia a ante sed, scelerisque congue nibh. Integer vitae ultrices urna, et fringilla odio. Integer at viverra dui. Nam feugiat varius lorem nec varius.</p>
+     </div>
+   <div style="width 45%">
+     <img src="http://via.placeholder.com/200x200" alt="">
+     <img src="http://via.placeholder.com/200x200" alt="">
+    </div>
+  </body>
+</html>
